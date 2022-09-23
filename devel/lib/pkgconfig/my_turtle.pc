@@ -1,0 +1,8 @@
+prefix=/home/cona/db_ws/devel
+
+Name: my_turtle
+Description: Description of my_turtle
+Version: 1.2.4
+Cflags: -I/home/cona/db_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+image_save:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/cona/db_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cona/db_ws/install -G Unix Makefiles

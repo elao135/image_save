@@ -1,0 +1,8 @@
+prefix=/home/cona/db_ws/devel
+
+Name: opencv3
+Description: Description of opencv3
+Version: 0.0.0
+Cflags: -I/home/cona/db_ws/src/image_save/include
+Libs: -L${prefix}/lib -lopencv
+Requires: cv_bridge image_transport roscpp sensor_msgs std_msgs
